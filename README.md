@@ -4,4 +4,4 @@ It includes:
 - Program to find the two's complement of a number.
 - Simple rock, paper, scissors program.
 - Simple Magic 8 ball program.
-- Progarm to convert temperature from Fahrenheit to Celsius
+- Program to convert temperature from Fahrenheit to Celsius
