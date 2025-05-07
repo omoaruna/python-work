@@ -5,3 +5,4 @@ It includes:
 - Simple rock, paper, scissors program.
 - Simple Magic 8 ball program.
 - Program to convert temperature from Fahrenheit to Celsius
+- A Lottery Simulation Program
